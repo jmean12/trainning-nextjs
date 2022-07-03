@@ -1,1 +1,2 @@
-# trainning-nextjs
+# NextJS Trainning
+
